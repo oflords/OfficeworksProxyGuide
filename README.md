@@ -1,19 +1,22 @@
 # Officeworks Proxy Guide
-A simple way to print high quality proxies requiring very little upfront costs!
+A simple way to print high quality proxies requiring very little upfront costs!  
+<img src="/images/proxy.jpg" width="300">
 
 ## Getting the PDF of cards
 > So many sites offer decklist saving, most export options from other sites seem to work with MTGPrint regardless if you store lists elsewhere.
 1. Make a decklist on [Moxfield](https://moxfield.com/) of cards you wish to print.
-2. In the top left of the decklist, select More > Export
-3. Click "Copy for Moxfield" to get the decklist in your clipboard
-4. Head to [MTGPrint](https://mtgprint.net/), paste in the cards and click "Submit"
-5. All the images for cards will appear below with a dropdown to select art styles. Tweak these to your liking
-6. Before pressing print, tweak the settings for PDF generation. I would suggest the following:
+3. In the top left of the decklist, select More > Export
+![Screenshot of Moxfield Export](/images/moxfield.png)
+5. Click "Copy for Moxfield" to get the decklist in your clipboard
+6. Head to [MTGPrint](https://mtgprint.net/), paste in the cards and click "Submit"
+7. All the images for cards will appear below with a dropdown to select art styles. Tweak these to your liking
+8. Before pressing print, tweak the settings for PDF generation. I would suggest the following:
    - Enable "Black Corners" if you want to avoid cutting round corners on your cards and they still look good
    - Disable all other toggles
    - Change Paper to "A4"
    - Set the Gap to "No Gap". This avoids small white borders on cards
-7. Click the "Print" button and save the PDF
+9. Click the "Print" button and save the PDF
+![Screenshot of MTGPrint Settings](/images/mtgprint.png)
 
 ## Printing
 > [!NOTE]
